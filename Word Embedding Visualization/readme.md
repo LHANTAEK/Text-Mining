@@ -4,7 +4,7 @@ An interactive React-based tool for visualizing word embeddings in a 2D space. T
 
 ## 🌟 Features
 
-- **2D Visualization**: Represents word embeddings in a simplified 2D space.
+- **2D Visualization**: Representing word embeddings in a simplified 2D space.
 - **Interactive Selection**: Click on words to see their relationships with other words.
 - **Similarity Calculation**: Displays the closest words based on their position in the embedding space.
 - **Customizable**: Easily extendable to include more words or different embeddings.
